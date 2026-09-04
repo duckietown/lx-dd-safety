@@ -4,25 +4,22 @@
 
 # Learning Experience (LX): Safety
 
-TODO: one paragraph on what this LX covers and what the learner ends up able to do.
+This LX covers the safety analysis every learner must complete before operating
+a drone. Learners work through the OSHA framework for industrial robot and robot
+system safety, FAA rules and the TRUST certification for flying an unmanned
+aircraft system, Brown University's UAS policy, and the precautions needed to
+fly safely at home. They also set up and document a safe soldering station and a
+safe indoor flight area.
 
 ## Intended learning outcomes
 
-TODO: 3 to 5 outcomes.
+After completing this learning experience, learners will be able to:
 
-# Writing this LX
+1. Analyze the safety considerations for operating a robot (drone) using the OSHA framework for
+   industrial robot and robot system safety.
+2. Explain the FAA rules and regulations that govern operating an unmanned aircraft system (UAS),
+   including how to complete the TRUST certification.
+3. Identify the institutional (Brown University) and personal (at-home) policies and precautions
+   that apply to flying a drone outside of the lab.
+4. Set up a soldering station and a flight area that meet the safety requirements for this course.
 
-The content of this LX lives in the notebooks under `notebooks/`.
-
-## 1. Get the repository
-
-    git clone git@github.com:duckietown/lx-dd-safety.git
-    cd lx-dd-safety
-
-## 2. Write the notebooks
-
-Notebooks are numbered in the order the learner works through them, one concept per notebook, for
-example `1-topic-basics.ipynb`, `2-topic-in-practice.ipynb`.
-
-Put images and data files under `assets/`. Code the learner is meant to complete goes under
-`packages/`, and its unit tests under `tests/`.
