@@ -2,10 +2,12 @@
 <a href="https://duckietown.com"><img src="./assets/images/dtlogo.png" alt="Duckietown Logo" width="50%"></a>
 </p>
 
-# Learning Experience (LX): Safety
+# Learning Experience (LX): Drone Safety
 
 This LX covers the safety analysis every learner must complete before operating
-a drone. Learners work through the OSHA framework for industrial robot and robot
+a drone. 
+
+Learners work through the OSHA framework for industrial robots and robot
 system safety, FAA rules and the TRUST certification for flying an unmanned
 aircraft system, Brown University's UAS policy, and the precautions needed to
 fly safely at home. They also set up and document a safe soldering station and a
